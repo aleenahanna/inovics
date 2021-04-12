@@ -1,2 +1,2 @@
 # inovics
-Inovics
+Inovics Info Solutions
